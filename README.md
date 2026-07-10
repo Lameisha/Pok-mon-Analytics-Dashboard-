@@ -42,6 +42,5 @@ Note: The current file extensin (.pbix) is Pokémon Analytics Dashboard and soon
 
 ## Screenshot
 
-![Pokémon Analytics Dashboard] 
-(Sales.png)
+![Pokémon Analytics Dashboard](Sales.png)
 
