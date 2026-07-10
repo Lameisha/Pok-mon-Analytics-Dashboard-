@@ -38,4 +38,7 @@ Repository contents:
 Superstore Sales Dashboard (.pbix)
 CSV dataset
 
+## Screenshot
+
+![Superstore] (sales.png)
 
