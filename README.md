@@ -40,5 +40,6 @@ CSV dataset
 
 ## Screenshot
 
-![Superstore] (sales.png)
+![Superstore] 
+(Sales.png)
 
