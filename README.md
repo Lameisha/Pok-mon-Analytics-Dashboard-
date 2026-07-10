@@ -40,6 +40,6 @@ CSV dataset
 
 ## Screenshot
 
-![Superstore] 
+![Pokémon Analytics Dashboard] 
 (Sales.png)
 
