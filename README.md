@@ -38,6 +38,8 @@ Repository contents:
 Superstore Sales Dashboard (.pbix)
 CSV dataset
 
+Note: The current file extensin (.pbix) is Pokémon Analytics Dashboard and soon to be renamed to Superstore Sales Dashboard.
+
 ## Screenshot
 
 ![Pokémon Analytics Dashboard] 
